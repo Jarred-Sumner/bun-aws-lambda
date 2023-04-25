@@ -1,3 +1,13 @@
+# Outdated experiment
+
+[**Use Bun's official custom AWS Lambda runtime layer**](https://github.com/oven-sh/bun/tree/main/packages/bun-lambda)
+
+This repository is an outdated experiment superceded by https://github.com/oven-sh/bun/tree/main/packages/bun-lambda.
+
+----
+
+# Original readme
+
 This is a hacky attempt to get Bun to run on AWS Lambda. Don't know yet if it will be officially supported in the future. I'm just trying things.
 
 [./lambda.ts](./lambda.ts) has the code necessary to respond to incoming requests in an AWS Lambda instance.
